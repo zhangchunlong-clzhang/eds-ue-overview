@@ -9,7 +9,7 @@
     left: 50%;
     transform: translateX(-50%);
     height: 500px;
-    overflow: hidden;
+    overflow: hidden; 
   
     /* The image is rendered to the first div in the block */
     picture {
